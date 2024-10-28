@@ -1,0 +1,7 @@
+boto3
+aws-lambda-powertools[tracer]
+python-json-logger
+pytest
+requests
+toml
+certifi>=2023.7.22
